@@ -153,7 +153,7 @@ Y luego en el ícono del pdf
  
 Y se despliega el recibo hecho o la venta. 
 
-                                                                          
-	Conclusión
+                                                                          Conclusión
+									  
 En este tipo de aplicativo, el servidor sería responsable de gestionar bases de datos, procesar transacciones, manejar inventarios y controlar la lógica de negocios (como la gestión de usuarios, productos, precios, etc.). Por otro punto de vista, el cliente sería la interfaz de usuario que podría estar en una computadora, Tablet o móvil, desde la cual los usuarios (empleados o clientes) interactúan para realizar acciones como ver productos, hacer compras o gestionar inventarios.
 
